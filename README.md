@@ -1,2 +1,1 @@
-# Patika.dev-Data-Structures-and-Algorithms
-Patika Veri Yapıları ve Algoritma
+Patika Profil Linkim : https://app.patika.dev/kaanakcan
